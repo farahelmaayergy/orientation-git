@@ -3,6 +3,7 @@ x# Git Configuration Walkthrough
 This github repository will walk you through setting up your Git and GitHub accounts. The intention of this project is to ensure your computer's environment is set up correctly and to give a preview of the Git work flow.  A deeper-dive into Git with additional functionality and explanations of each command will be part of your continued learning at BloomTech.
 
 ---
+Checked off additional finished tasks
 
 ## Checklist
 
@@ -14,9 +15,9 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] Forking a Repository  
 - [x] Cloning a Repository  
 - [x] Making Changes to the Repository  
-- [ ] Commiting Changes Locally  
-- [ ] Moving Changes to GitHub   
-- [ ] Standard Work Flow
+- [x] Commiting Changes Locally  
+- [x] Moving Changes to GitHub   
+- [x] Standard Work Flow
 
 ---
 
@@ -24,7 +25,8 @@ This github repository will walk you through setting up your Git and GitHub acco
 First step complete! Welcome and good luck over the next steps!  
 If you run into issues please visit the Hub's discussion forums or submit a ticket for assistance.
 
----
+---git push
+
 
 ## Create a GitHub Account
 *One time only.*
